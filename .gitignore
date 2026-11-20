@@ -1,0 +1,9 @@
+/.core/
+/release/
+/bin/
+/layerwatch-ai
+/prusa-connect-extension-example
+/ui/node_modules/
+/ui/dist/
+/client/node_modules/
+/client/dist/
